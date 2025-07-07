@@ -1,12 +1,24 @@
-# React + Vite
+QR Code & Contact Card Maker
+Instantly generate QR codes for your links, contact information, and vCards. Share your digital business card effortlessly and connect faster.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Generate QR codes for:
 
-Currently, two official plugins are available:
+Website URLs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Contact details (vCard)
 
-## Expanding the ESLint configuration
+Emails, phone numbers, and more
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Create and save digital contact cards
+
+Download QR codes as images
+
+Responsive and clean user interface
+
+🛠️ Tech Stack
+Frontend: React.js (or specify your frontend)
+
+QR Code Library: qrcode.react or react-qr-code (specify what you used)
+
+Styling: Tailwind CSS (if used) or your styling method
