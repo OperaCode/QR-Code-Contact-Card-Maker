@@ -27,21 +27,21 @@ const Landing = () => {
       <main className="  flex flex-col items-center justify-center flex-grow px-4 text-center animate-fadeIn">
         <div className="max-w-3xl ">
           {/* Hero Icon */}
-          <Scan size={64} className="mx-auto mb-6 text-white drop-shadow-lg"  />
+          <Scan size={64} className="mx-auto mb-4 text-white drop-shadow-lg"  />
 
           {/* Title */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-6 tracking-tight drop-shadow-lg">
-            Create QR Codes Instantly
+            Create Contact Cards with QRCodes Instantly
           </h1>
 
           {/* Description */}
-          <p className="text-lg sm:text-xl md:text-2xl mb-8 max-w-lg mx-auto opacity-90">
+          <p className="text-lg sm:text-xl md:text-2xl mb-2 max-w-lg mx-auto opacity-90">
           Generate QR code instantly and create custom QR code contact cards for text, links, and url – fast and easy..Ready to download
           </p>
 
           {/* Hero Illustration */}
-          <div className=" relative w-64 h-64 sm:w-80 sm:h-80 mx-auto mb-8">
-            <div className="absolute inset-0 bg-white/20 rounded-lg animate-pulse"></div>
+          <div className=" relative w-64 h-64 sm:w-80 sm:h-80 mx-auto mb-2">
+            <div className="absolute w-2/3 h-2/3 m-auto inset-0 bg-white/20 rounded-lg animate-pulse"></div>
             <QrCode
               size={80}
               className="absolute top-2/3 left-2/3 transform -translate-x-1/2 -translate-y-1/2 animate-spin"
