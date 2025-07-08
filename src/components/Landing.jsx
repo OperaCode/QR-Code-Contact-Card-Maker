@@ -36,7 +36,7 @@ const Landing = () => {
 
           {/* Description */}
           <p className="text-lg sm:text-xl md:text-2xl mb-8 max-w-lg mx-auto opacity-90">
-            Generate custom QR codes for URLs, text, or contact details in seconds with QRGenix.
+          Generate QR code instantly and create custom QR code contact cards for text, links, and url – fast and easy..Ready to download
           </p>
 
           {/* Hero Illustration */}
