@@ -1,4 +1,4 @@
-QR Code & Contact Card Maker
+QRGenix
 Instantly generate QR codes for your links, contact information, and vCards. Share your digital business card effortlessly and connect faster.
 
 🚀 Features
@@ -12,13 +12,13 @@ Emails, phone numbers, and more
 
 Create and save digital contact cards
 
-Download QR codes as images
+Download Contact cards with QR codes as images
 
 Responsive and clean user interface
 
 🛠️ Tech Stack
 Frontend: React.js (or specify your frontend)
 
-QR Code Library: qrcode.react or react-qr-code (specify what you used)
+QR Code Library: qrcode.react 
 
-Styling: Tailwind CSS (if used) or your styling method
+Styling: Tailwind CSS 
