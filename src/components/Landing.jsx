@@ -1,10 +1,8 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 import { QrCode, Scan } from "lucide-react";
 
 const Landing = () => {
- 
-
   return (
     <div className="w-full min-h-screen flex   flex-col bg-gradient-to-br from-blue-500 via-cyan-400 to-green-500 text-white">
       {/* Header */}
@@ -51,7 +49,7 @@ const Landing = () => {
             />
           </div>
 
-          {/* CTA Button */}
+          {/* Button */}
           <Link to="/home" >
             <button className="bg-white text-blue-600 font-semibold px-8 py-4 rounded-full m-auto shadow-xl cursor-pointer hover:bg-blue-100 hover:scale-105 transform transition duration-300 flex items-center gap-2">
               <Scan size={20} />
