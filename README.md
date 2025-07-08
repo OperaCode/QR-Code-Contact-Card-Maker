@@ -17,7 +17,7 @@ Download Contact cards with QR codes as images
 Responsive and clean user interface
 
 🛠️ Tech Stack
-Frontend: React.js (or specify your frontend)
+Frontend: React.js 
 
 QR Code Library: qrcode.react 
 
